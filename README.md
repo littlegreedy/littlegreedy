@@ -9,11 +9,9 @@ I like things that have fascinated thintking. Thus, I'm interested in learning a
 ### Current Status
 
 - 🌱  I’m currently learning things concerning (sorted as importance)
-  + Mathematics 
-  + Mathematics
-  + Mathematics
-  + English
-  + Basic computer course
+  + 💬Mathematics 
+  + 😄English
+  + ⚡Basic computer course
   
   
 <!--
