@@ -2,7 +2,7 @@
 
 ### Basic Info
 
-I'm an postgraduate, major in Computer Science and Technology.
+I'm a postgraduate, major in Computer Science and Technology.
 
 I like things that have fascinated thintking. Thus, I'm interested in learning and love and the Integrity&KindnessBehaviors front them.
 
